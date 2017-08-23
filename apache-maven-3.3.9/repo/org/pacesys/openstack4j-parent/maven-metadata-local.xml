@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.pacesys</groupId>
+  <artifactId>openstack4j-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>OTC-3.0.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170817132808</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 17 21:29:38 GMT+08:00 2017
+openstack4j-httpclient-OTC-3.0.5-SNAPSHOT.pom>=
+openstack4j-httpclient-OTC-3.0.5-SNAPSHOT-sources.jar>=
+openstack4j-httpclient-OTC-3.0.5-SNAPSHOT.jar>=
